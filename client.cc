@@ -18,6 +18,7 @@ main(int argc, char **argv)
     // setup default arguments
     int option;
     //Team Member 2: create an integer variable named port, assign it a value
+    int port = 8080;
     //int port = SOME VALUE YOU FILL IN;
     string host = "localhost";
 
